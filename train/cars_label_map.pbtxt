@@ -1,0 +1,90 @@
+item {
+    name: "back_bumper",
+    id: 1,
+    display_name: "back_bumper"
+}
+item {
+    name: "back_glass",
+    id: 2,
+    display_name: "back_glass"
+}
+item {
+    name: "back_left_door",
+    id: 3,
+    display_name: "back_left_door"
+}
+item {
+    name: "back_left_light",
+    id: 4,
+    display_name: "back_left_light"
+}
+item {
+    name: "back_right_door",
+    id: 5,
+    display_name: "back_right_door"
+}
+item {
+    name: "back_right_light",
+    id: 6,
+    display_name: "back_right_light"
+}
+item {
+    name: "front_bumper",
+    id: 7,
+    display_name: "front_bumper"
+}
+item {
+    name: "front_glass",
+    id: 8,
+    display_name: "front_glass"
+}
+item {
+    name: "front_left_door",
+    id: 9,
+    display_name: "front_left_door"
+}
+item {
+    name: "front_left_light",
+    id: 10,
+    display_name: "front_left_light"
+}
+item {
+    name: "front_right_door",
+    id: 11,
+    display_name: "front_right_door"
+}
+item {
+    name: "front_right_light",
+    id: 12,
+    display_name: "front_right_light"
+}
+item {
+    name: "hood",
+    id: 13,
+    display_name: "hood"
+}
+item {
+    name: "left_mirror",
+    id: 14,
+    display_name: "left_mirror"
+}
+item {
+    name: "right_mirror",
+    id: 15,
+    display_name: "right_mirror"
+}
+item {
+    name: "tailgate",
+    id: 16,
+    display_name: "tailgate"
+}
+item {
+    name: "trunk",
+    id: 17,
+    display_name: "trunk"
+}
+item {
+    name: "wheel",
+    id: 18,
+    display_name: "wheel"
+}
